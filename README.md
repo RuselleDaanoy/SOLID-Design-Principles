@@ -34,3 +34,6 @@ The Dependency Inversion Principle (DIP) states that high-level modules should n
 
 Folder: /dependency-inversion-principle/
 Example: Decoupling PaymentProcessor from specific payment methods (EWallet, CreditCard, Cash) using the Payment interface.
+
+Document:
+[DAANOY SOLID Lab Exercise .pdf](https://github.com/user-attachments/files/19384084/DAANOY.SOLID.Lab.Exercise.pdf)
